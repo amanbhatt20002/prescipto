@@ -1,0 +1,20 @@
+# Backend
+backend/node_modules/
+backend/.env
+
+
+
+
+# Admin panel
+addmin/node_modules/
+addmin/.env
+
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+
+
+
+# Logs
+*.log
