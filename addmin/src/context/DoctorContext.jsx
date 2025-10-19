@@ -15,7 +15,9 @@ const DoctorContextProvider = (props) => {
 
         dToken,
         backendUrlD,
-        setDToken
+        setDToken,
+        bkjbdjj,
+        dbkjdj
 
 
     }
